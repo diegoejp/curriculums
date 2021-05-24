@@ -1,0 +1,75 @@
+body{
+    background-color: black;
+    font-family: 'Teko', sans-serif;
+}
+.contenedor{
+    width: 55%;
+    margin: 0 auto;
+    background-color: white;
+}
+h1{
+    color: rgba(25,89,125,255);
+}
+header{
+    background-color: rgba(25,89,125,255);
+    color: white;
+    padding: 20px;
+}
+header h1{
+    color: white;
+}
+h1 , h2, h4 ,h3{
+    margin: 0;
+}
+main{
+    display: flex;
+
+}
+.aside{
+    padding: 20px;
+    background-color:rgba(220,221,223,255) ;
+}
+.principal{
+    padding: 20px;
+
+}
+.barra{
+    width: 100%;
+}
+.barra p{
+    margin: 0;
+}
+.skill{
+    width: 70%;
+    background-color: rgba(25,89,125,255);
+    height: 20px;
+    border-radius: 0 10px 10px 0px;
+}
+.barra-a{
+    width: 70%;
+}
+.barra-b{
+    width: 90%;
+}
+.barra-c{
+    width: 80%;
+}
+.barra-d{
+    width: 60%;
+}
+.barra-e{
+    width: 50%;
+    margin-bottom: 10px;
+}
+.margin-button{
+    border-bottom: 5px solid rgba(25,89,125,255) ;
+    margin-bottom: 10px;
+}
+ul{
+    padding-left: 5px;
+    list-style: none;
+}
+li{
+    font-size: 14px;
+    margin-bottom: 4px;
+}
