@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+.contenedor{
+    width: 40%;
+    margin: 0 auto;
+    background-color: white;
+    padding: 20px;
+}
+span{
+    color: pink;
+}
+.negrita{
+    font-weight: 700;
+}
